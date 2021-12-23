@@ -110,7 +110,10 @@ header h1 {
   color: var(--primary);
 }
 
-
+.login-form-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+}
 
 main {
   flex: 1;
