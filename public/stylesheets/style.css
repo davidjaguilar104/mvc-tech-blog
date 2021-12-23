@@ -108,6 +108,13 @@ header h1 {
   box-shadow: 6px 5px var(--light-dark);
 }
 
+nav {
+  width: 65%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 24px;
+}
+
 #login-btn {
   color: var(--primary);
 }
